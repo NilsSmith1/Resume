@@ -286,7 +286,7 @@
 }
 
 % Redefine list environments
-\setlist[itemize]{leftmargin=3ex, nosep, itemsep=1ex, label=\bullet}
+\setlist[itemize]{leftmargin=3ex, nosep, itemsep=1ex, label=$\bullet$}
 
 %-------------------------------------------------------------------------------
 %				Commands for personal information

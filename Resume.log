@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.9.26)  26 SEP 2026 16:13
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.9.26)  26 SEP 2026 19:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -884,32 +884,125 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 .
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 3.
+
+Runaway argument?
+{Python, Java, TypeScript, SQL, JavaScript, HTML \& CSS, LaTeX 
+c:/Users/nilsk/Resume-1/Resume.tex:23: Paragraph ended before \\userSection was
+ complete.
+<to be read again> 
+                   \par 
+l.23 \par
+         \smallskip\textbf{Tools:} Git, VS Code, Pandas, NumPy, Matplotlib, ...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+LaTeX Font Info:    Font shape `TU/SourceSans3(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 23.
+c:/Users/nilsk/Resume-1/Resume.tex:23: Too many }'s.
+l.23 ... NumPy, Matplotlib, Excel, React, Next.js}
+                                                  
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+\@headerheight=\skip95
+\@headertextwidth=\skip96
+\@headerleftbox=\skip97
+\@headerrightbox=\skip98
+\headerbox=\box69
+LaTeX Font Info:    Font shape `TU/SourceSans3(1)/m/n' will be
+(Font)              scaled to size 18.0pt on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 37.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 37.
 File: ../Downloads/ReCeiVe/pics/background1.pdf Graphic file (type pdf)
 <use ../Downloads/ReCeiVe/pics/background1.pdf>
- [1
+LaTeX Font Info:    Font shape `TU/SourceSans3(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 37.
+\@xOffset=\skip99
+\@yOffset=\skip100
+\@corner=\skip101
+\@xPosSidebar=\skip102
+\@yPosSidebar=\skip103
+\@sidebarHeight=\skip104
+\@textblockWidth=\skip105
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+\sidebarBox=\box70
+\@edgeradius=\skip106
+\@photowidth=\skip107
+File: ../Downloads/ReCeiVe/pics/SquareHeadshot.png Graphic file (type bmp)
+<../Downloads/ReCeiVe/pics/SquareHeadshot.png>
+LaTeX Font Info:    Font shape `TU/SourceSans3(3)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 38.
+
+Underfull \hbox (badness 1917) in paragraph at lines 38--38
+[]\TU/SourceSans3(3)/m/n/9 CS/Math student at the University of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+\TU/SourceSans3(3)/m/n/9 Minnesota Duluth with interests in
+ []
+
+
+Underfull \hbox (badness 7133) in paragraph at lines 38--38
+\TU/SourceSans3(3)/m/n/9 Quantitative Analysis, Systems Engi-
+ []
+
+
+Underfull \hbox (badness 3861) in paragraph at lines 38--38
+\TU/SourceSans3(3)/m/n/9 neering, and Software Development.
+ []
+
+LaTeX Font Info:    Font shape `TU/SourceSans3(1)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 38.
+LaTeX Font Info:    Font shape `TU/SourceSans3(1)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 38.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 38.
+(../Downloads/ReCeiVe/cvSections/education.tex
+LaTeX Font Info:    Font shape `TU/SourceSans3(3)/m/sl' in size <9> not availab
+le
+(Font)              Font shape `TU/SourceSans3(3)/m/it' tried instead on input 
+line 7.
+LaTeX Font Info:    Font shape `TU/SourceSans3(3)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 7.
+LaTeX Font Info:    Font shape `TU/SourceSans3(1)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 7.
+LaTeX Font Info:    Font shape `TU/SourceSans3(1)/m/sc' will be
+(Font)              scaled to size 8.0pt on input line 7.
+LaTeX Font Info:    Font shape `TU/SourceSans3(3)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 7.
+LaTeX Font Info:    Font shape `TU/SourceSans3(3)/m/sl' in size <8> not availab
+le
+(Font)              Font shape `TU/SourceSans3(3)/m/it' tried instead on input 
+line 7.
+LaTeX Font Info:    Font shape `TU/SourceSans3(3)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 7.
+) [1
 
 ] (Resume.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-08-10>
  ***********
-
-
-Package rerunfilecheck Warning: File `Resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Resume.out':
-(rerunfilecheck)             Before: BF826FF50FBB1F5967FC0E69CF079D33;335
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `Resume.out' has not changed.
+(rerunfilecheck)             Checksum: 5CA4FA00682B9CE9DB3AD440DB2B582C;436.
  ) 
 Here is how much of TeX's memory you used:
- 26823 strings out of 402560
- 546152 string characters out of 5437924
- 985114 words of memory out of 5000000
- 55471 multiletter control sequences out of 15000+600000
- 628825 words of font info for 134 fonts, out of 8000000 for 9000
+ 27006 strings out of 402560
+ 551871 string characters out of 5437924
+ 1001193 words of memory out of 5000000
+ 55618 multiletter control sequences out of 15000+600000
+ 630800 words of font info for 159 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 107i,11n,135p,1092b,625s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 107i,14n,135p,1092b,1134s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on Resume.pdf (1 page).

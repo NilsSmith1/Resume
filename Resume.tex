@@ -1,43 +1,47 @@
 \documentclass[rightPos]{ReCeiVe}
 \background{../Downloads/ReCeiVe/pics/background1.pdf}
 \begin{document}
-\drawbackground
 
 %----------------
-Personal Information
+%Personal Information
 %----------------
-\name{Nils K. Smith}
-\photo{../Downloads/ReCeiVe/pics/NilsSmithPortraitEdit.png}
+\name{Nils K.}{Smith}
+\photo[circle,edge,fill,left]{4.5cm}{../Downloads/ReCeiVe/pics/SquareHeadshot.png}
 \email{nilsksmith@gmail.com}
 \mobile{+1 (612) 224-6157}
-\github{https://github.com/NilsSmith1}
-\linkedin{https://www.linkedin.com/in/nilsksmith/}
+\github{NilsSmith1}
+\linkedin{nilsksmith}
 \position{Student with Focus on Quantitative Analysis and Software Development}
 
 %----------------
-Sidebar content
+%Sidebar content
 %----------------
+\aboutMe{CS/Math student at the University of Minnesota Duluth with interests in Quantitative Analysis, Systems Engineering, and Software Development.
+}
 \headwords{Quantitative Analysis, Software Development, Data Science, Machine Learning, Statistical Modeling, Algorithm Design}
-\skillset[label/0\hfill +500 h]{Python/.8, Java/.4, TypeScript/.6, SQL/.4, JavaScript/.4, HTML/CSS/.4, SQL/.4, and LaTeX/.4}
-%\tools{Git, vscode, Pandas, NumPy, Matplotlib, Excel, React, and Next.js}
+\userSection[Skills]{Python, Java, TypeScript, SQL, JavaScript, HTML \& CSS, LaTeX
+\par\smallskip\textbf{Tools:} Git, VS Code, Pandas, NumPy, Matplotlib, Excel, React, Next.js}
 
-\languages{English (Native), Japanese (Mother Tongue)}
+\languages{English/Native, Japanese/Mother Tongue}
 \hobbies{Traveling, Cooking, Violin, Skiing, and Radio-controlled vehicles}
 
 \nonProfit{
         %
-        /begin{itemize}
+        \begin{itemize}
             \item Duluth Center for Women and Children 
             \item Northland Health Equity
+        \end{itemize}
 }
 
+\makecvheader
+\makecvsidebar
 
 
 
 %----------------
-Import content from other files
+%Import content from other files
 %----------------
 
-
+\input{../Downloads/ReCeiVe/cvSections/education.tex}
 
 \end{document}
