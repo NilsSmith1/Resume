@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.10.4)  4 OCT 2026 20:57
+This is XeTeX, Version 3.141592653-2.6-0.999998 (MiKTeX 26.5) (preloaded format=xelatex 2026.10.4)  4 OCT 2026 23:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -376,22 +376,16 @@ L3 programming layer <2026-09-09>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `RevisedResume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `RevisedResume.out':
-(rerunfilecheck)             Before: 8178769A591DAE54593BE5DC5893BD68;390
-(rerunfilecheck)             After:  25C2842E35BBA811345E8D19D938D382;307.
+Package rerunfilecheck Info: File `RevisedResume.out' has not changed.
+(rerunfilecheck)             Checksum: 8178769A591DAE54593BE5DC5893BD68;390.
  ) 
 Here is how much of TeX's memory you used:
  10800 strings out of 402510
  173167 string characters out of 5435957
- 618781 words of memory out of 5000000
+ 625781 words of memory out of 5000000
  39885 multiletter control sequences out of 15000+600000
  632304 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 71i,11n,79p,306b,349s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,11n,79p,308b,349s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on RevisedResume.pdf (1 page).
